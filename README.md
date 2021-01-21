@@ -1,5 +1,5 @@
 # SparksFoundation
-By: Shivangi Sharma JAN 2021
+Data Science & Business Analytics internship with the sparks foundation
 ## Exploratory Data Analysis - Sports
 Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’
 ● As a sports analysts, find out the most successful teams, players and factors
